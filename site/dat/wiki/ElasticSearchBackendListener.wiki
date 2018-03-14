@@ -28,6 +28,6 @@ Feel free to contribute by branching and making pull requests, or simply by sugg
 
 == Screenshots ==
 === Configuration ===
-![screnshot1](https://image.ibb.co/kDH3YH/Screen_Shot_2018_02_23_at_2_18_03_PM.png "Screenshot of configuration")
+[[https://image.ibb.co/kDH3YH/Screen_Shot_2018_02_23_at_2_18_03_PM.png|Screenshot of configuration]]
 === Very simple example of Kibana dashboard ===
-![screnshot1](https://image.ibb.co/bA1oYH/Screen_Shot_2018_02_23_at_2_37_46_PM.png "Example Kibana dashboard")
+[[https://image.ibb.co/bA1oYH/Screen_Shot_2018_02_23_at_2_37_46_PM.png|Example Kibana dashboard]]
