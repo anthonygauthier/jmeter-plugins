@@ -418,6 +418,10 @@
       "2.2.2": {
         "changes": "Fixed a bug that would not send any samplers and leaving filters empty",
         "downloadUrl":"https://search.maven.org/remotecontent?filepath=io/github/delirius325/jmeter.backendlistener.elasticsearch/2.2.2/jmeter.backendlistener.elasticsearch-2.2.2.jar"
+      },
+      "2.2.3": {
+        "changes": "Added test mode (controlling the level of detail sent to ES), updated doc, added sample grafana dashboard to Git Wiki",
+        "downloadUrl":"https://search.maven.org/remotecontent?filepath=io/github/delirius325/jmeter.backendlistener.elasticsearch/2.2.3/jmeter.backendlistener.elasticsearch-2.2.3.jar"
       }
     }
   }
